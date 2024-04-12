@@ -133,7 +133,7 @@
 #u202 {
   border-width:0px;
   position:absolute;
-  left:0px;
+  left:390px;
   top:429px;
   width:120px;
   height:150px;
@@ -215,7 +215,7 @@
 #u204 {
   border-width:0px;
   position:absolute;
-  left:0px;
+  left:390px;
   top:584px;
   width:128px;
   height:33px;
@@ -311,7 +311,7 @@
 #u207 {
   border-width:0px;
   position:absolute;
-  left:195px;
+  left:0px;
   top:429px;
   width:120px;
   height:150px;
@@ -393,7 +393,7 @@
 #u209 {
   border-width:0px;
   position:absolute;
-  left:195px;
+  left:0px;
   top:584px;
   width:146px;
   height:33px;
@@ -445,7 +445,7 @@
 #u211 {
   border-width:0px;
   position:absolute;
-  left:390px;
+  left:195px;
   top:429px;
   width:120px;
   height:150px;
@@ -527,7 +527,7 @@
 #u213 {
   border-width:0px;
   position:absolute;
-  left:390px;
+  left:195px;
   top:584px;
   width:168px;
   height:33px;
@@ -1887,7 +1887,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:109px;
+  width:193px;
   height:33px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -1903,9 +1903,9 @@
 #u253 {
   border-width:0px;
   position:absolute;
-  left:780px;
-  top:1082px;
-  width:109px;
+  left:0px;
+  top:1305px;
+  width:193px;
   height:33px;
   display:flex;
   font-family:'Roboto', sans-serif;
@@ -1924,7 +1924,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:109px;
+  width:193px;
   height:33px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -1941,14 +1941,14 @@
 }
 #u253_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
 }
 #u254 {
   border-width:0px;
   position:absolute;
-  left:780px;
-  top:927px;
+  left:0px;
+  top:1150px;
   width:120px;
   height:150px;
 }
@@ -4789,8 +4789,8 @@
 #u332 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:1305px;
+  left:780px;
+  top:1082px;
   width:128px;
   height:33px;
   display:flex;
@@ -4833,8 +4833,8 @@
 #u333 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:1150px;
+  left:780px;
+  top:927px;
   width:120px;
   height:150px;
 }
